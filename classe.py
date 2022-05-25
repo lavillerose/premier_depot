@@ -4,3 +4,5 @@ class test():
         self.age=11
         self.get_bdd="file"
         self.read_bdd=True
+        print("helo")
+
