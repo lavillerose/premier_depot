@@ -1,3 +1,4 @@
 print("hola hit")
+test()
 var="test"
-print("i love scripts ;)")
+print("hello j'aime scripter:D")
